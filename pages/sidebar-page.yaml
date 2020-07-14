@@ -1,0 +1,8 @@
+code: sidebar_page
+titles:
+  it: Sidebar page
+  en: Sidebar page
+pageModel: sidebar
+ownerGroup: free
+displayedInMenu: true
+status: draft

@@ -1,0 +1,5 @@
+code: sidebar_fragment
+
+guiCode: >-
+  "<h1>This is the fragment title</h1>"
+

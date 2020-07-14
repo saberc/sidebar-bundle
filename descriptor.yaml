@@ -1,0 +1,12 @@
+code: sidebar-bundle
+description: This bundle contains a sidebar layout, with a simple page-template, a page and a fragment
+
+components:
+  pages:
+    - pages/sidebar-page.yaml
+
+  pageModels:
+    - pagemodels/sidebar.yaml
+
+  fragments:
+    - fragments/sidebar-fragment.yaml
